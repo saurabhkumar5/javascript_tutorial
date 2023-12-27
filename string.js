@@ -29,7 +29,7 @@
     // console.log(a.concat(b))
 
     // 3.replace()
-        //  console.log(a.replaceAll("a","n"))
+        //  console.log(a.replace("m","z"))
 
         // 4.toUppercase()
             //  console.log(a.toUpperCase())
@@ -37,13 +37,13 @@
             // 5.toLowercase()
 
             // 6.split()
-            // let str = "hello, how,are you"
-            // console.log(str.split(","))
+            // let str = "hello how ,are you"
+            // console.log(str.split(" "))
 
             // 7. includes()
 
             // let str = "welcome";
-            // console.log(str.includes("comme"))
+            // console.log(str.includes("come"))
 
             // 8.trim()
 
